@@ -5,7 +5,7 @@ While Multi-label classification has been widely studied, few works considered t
 All experiments were implemented in MOA : https://moa.cms.waikato.ac.nz/ with jvm -v 11.0.4
 
 ## Experimental data
-### stationnaire stream data :
+### Stationnaire stream data :
 - 20NG
 - Bookmarks
 - Corel16k
@@ -18,4 +18,4 @@ All data can be found on : http://www.uco.es/kdis/mllresources/
 ### Non-stationnaire stream data:
 We have selected two generators (Random RBF and RandomTree) from the MOA environment and adapted them to generate multi-label data. 
 
-#### Xihui WANG, Pascale KUNTZ et Frank MEYER
+> <cite> Xihui WANG, Pascale KUNTZ et Frank MEYER </cite>
