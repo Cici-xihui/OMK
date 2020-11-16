@@ -19,4 +19,5 @@ All data can be found on : http://www.uco.es/kdis/mllresources/
 ### Non-stationnaire stream data:
 We have selected two generators (Random RBF and RandomTree) from the MOA environment and adapted them to generate multi-label data. 
 
+# Citing Exploration des mémoires pour la classification multi-labels en flux
 > <cite> Xihui WANG, Pascale KUNTZ et Frank MEYER </cite>
