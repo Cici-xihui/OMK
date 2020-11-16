@@ -15,7 +15,7 @@ All experiments were implemented in MOA : https://moa.cms.waikato.ac.nz/ with jv
 - Tmc2007-500
 All data can be found on : http://www.uco.es/kdis/mllresources/
 
-### non-stationnaire stream data:
+### Non-stationnaire stream data:
 We have selected two generators (Random RBF and RandomTree) from the MOA environment and adapted them to generate multi-label data. 
 
 #### Xihui WANG, Pascale KUNTZ et Frank MEYER
