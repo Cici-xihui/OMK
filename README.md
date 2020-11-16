@@ -13,6 +13,7 @@ All experiments were implemented in MOA : https://moa.cms.waikato.ac.nz/ with jv
 - Mediamill
 - Ohsumed
 - Tmc2007-500
+
 All data can be found on : http://www.uco.es/kdis/mllresources/
 
 ### Non-stationnaire stream data:
